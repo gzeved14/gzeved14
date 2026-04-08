@@ -1,54 +1,102 @@
-
-<h1>Gabriel Azevedo 👨‍💻</h1>
-
-<p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFDB56&center=true&vCenter=true&width=500&height=100&lines=Back-end+Developer+%F0%9F%92%BB;Computer+Engineering+%E2%9D%A4" alt="Typing SVG" /></a>
-</p>
-
-<h2>Sobre mim!</h2>
-<img align='right' src="https://awesome-github-stats.azurewebsites.net/user-stats/gzeved14?cardType=level&theme=dracula&preferLogin=false" width=400/>
-<img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel-Azevedo&color=f8efd4&style=for-the-badge&logo=GitHub"/>
-<p>
-    Tenho 20 anos, sou estudante de Engenharia da Computação na Universidade Federal do Amazonas e técnico em Informática pelo IFAM. Estou em busca de oportunidades para iniciar minha carreira como desenvolvedor de software/web.<br/>
-    Possuo conhecimento em Java, C, Kotlin, SQL e Python, além de experiência com JavaScript, HTML e CSS.<br/>
-    Embora ainda não tenha experiência profissional na área, estou sempre aprendendo e aprimorando minhas habilidades para contribuir em projetos inovadores.
-</p>
-<br/>
-<p>Desenvolvedor Back-end/Front-end, em busca do primeiro emprego na área de desenvolvedor!</p>
-
-<br><br>
-
-<h2 align="center">Redes Sociais</h2>
+<h1 align="center">Gabriel Azevedo</h1>
 
 <p align="center">
-    <a href="mailto:gabrielazevedomartins96@gmail.com">
-        <img width="27" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/gabriel-azevedo-martins">
-        <img width="25" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>
-    </a>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFDB56&center=true&vCenter=true&width=900&height=80&lines=Back-end+Developer;Engenharia+da+Computa%C3%A7%C3%A3o+(UFAM);Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript+%7C+SQL"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
-<hr>
-
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Linguagens e Ferramentas:</h2>
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=css,html,github,kotlin,c,idea,eclipse,linux,vscode,git&perline=10" />
-    </a>
-</p>
-  <h2><img src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47toumqdv4j11uphpu3jwyd67v0c7pwe0u0xtq9kix&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="25"/> APRENDENDO:</h2>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,py,ruby,nodejs,cs,cpp,js,angular,mysql,bootstrap&perline=14" />
-    </a>
-  </p>
+  <a href="mailto:gabrielazevedomartins96@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-gabrielazevedomartins96%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-azevedo-martins">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/gzeved14">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-gzeved14-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h2>CONTRIBUIÇÕES:</h2>
+---
 
-<a href="https://github.com/elidianaandrade/dio-lab-open-source" target="gabriel-azevedo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Repo DIO Git GitHub"/>
-</a>
-</div>
+## Sobre mim
+
+<img align="right" src="https://awesome-github-stats.azurewebsites.net/user-stats/gzeved14?cardType=level&theme=dracula&preferLogin=false" width="380"/>
+
+Sou estudante de **Engenharia da Computação (UFAM)** e técnico em Informática (IFAM), focado em **Back-end** e construção de APIs.
+
+**Principais interesses:**
+- APIs REST, autenticação e segurança
+- Integrações (bots, sistemas legados, bancos de dados)
+- Boas práticas: testes, documentação e organização de código
+
+---
+
+## Projetos em destaque
+
+### 🔐 TokenGate — Cadastro + confirmação por token (Spring Boot)
+Backend em Spring Boot para **registro de usuário com confirmação por token e envio de e-mail**.
+
+- Stack: **Java 17**, **Spring Boot**, **Spring Security**, **JPA**, **PostgreSQL**
+- Endpoints: `/api/v1/registration` e `/api/v1/registration/confirm`
+
+➡️ Repositório: https://github.com/gzeved14/TokenGate
+
+---
+
+### 🤖 Bot Saniteck — Telegram + Protheus (Python)
+Bot do Telegram integrado com **Protheus** para realizar **consultas rápidas via chat**, com arquitetura modular.
+
+- Stack: **Python**, **pyTelegramBotAPI**, **pyodbc**, **Docker Compose**, `.env`
+- Estrutura: handlers por domínio (Vendas, Logística, CRM, Financeiro…)
+
+➡️ Repositório: https://github.com/gzeved14/Bot-Saniteck-
+
+---
+
+### 🏫 API Escola — TypeORM + Validação & testes (TypeScript)
+API com foco em **validação, testes e documentação** (com relatório de validação).
+
+- Stack: **TypeScript**, **Node.js**, **PostgreSQL**, validação, testes
+- Destaque: documentação de validação e testes (ex.: 61 testes passando)
+
+➡️ Repositório: https://github.com/gzeved14/api-escola-typeorm
+
+---
+
+### 🧳 Object-Trouvé — Achados e Perdidos (Web)
+Aplicação para **cadastro e busca** de objetos perdidos/encontrados e contato entre usuários.
+
+- Features: cadastro, busca e contato
+- Stack: (ajuste aqui com a stack real do projeto: React/Node/HTML/CSS etc.)
+
+➡️ Repositório: https://github.com/gzeved14/Object-Trouve-
+
+---
+
+### ⚡ EnergyMonitor / ReservaIoT — Front-end (Angular)
+Projeto front-end gerado com Angular CLI.
+
+- Stack: **Angular**
+- Execução: `ng serve`
+
+➡️ Repositório: https://github.com/gzeved14/EnergyMonitor
+
+---
+
+## Tecnologias
+
+**Back-end:** Java, Spring Boot, Node.js, TypeScript, Python  
+**Banco de dados:** PostgreSQL, SQL  
+**Ferramentas:** Git/GitHub, Linux, Docker, VS Code / IntelliJ
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,py,postgres,docker,git,linux&perline=9" />
+  </a>
+</p>
+
